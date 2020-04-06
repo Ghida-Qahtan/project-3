@@ -36,7 +36,7 @@ More information and documentation on the Kaggle datasets platform see [this pag
 ---
 
 ### Submission
-- Due date: Monday 27th April 2020
+- Due date:  Thursday 16th April 2020
 
 - The link to the dataset (and the associated starter kernel) on Kaggle add it your Note Book and Of course submit your code using pull command.
 
